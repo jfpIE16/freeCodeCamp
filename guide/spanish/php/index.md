@@ -8,7 +8,7 @@ localeTitle: PHP
 
 PHP es un lenguaje de programación del lado del servidor creado en 1995 por Rasmus Lerdorf.
 
-PHP es un lenguaje de script de uso general de código abierto ampliamente utilizado que es especialmente adecuado para el desarrollo web y se puede incrustar en HTML.
+PHP es un lenguaje de scripting ampliamente utilizado. Es de código abierto y se utiliza específicamente para el desarrollo WEB por su fácil adecuación con HTML.
 
 ## ¿Qué significa el acrónimo PHP?
 
