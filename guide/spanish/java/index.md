@@ -4,7 +4,7 @@ localeTitle: Java
 ---
 **¿Que es Java?**
 
-[Java](https://www.oracle.com/java/index.html) es un lenguaje de programación desarrollado por [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) en 1995, que más tarde fue adquirido por [Oracle](http://www.oracle.com/index.html) . Ahora es una plataforma completa con muchas API estándar, API de código abierto, herramientas, gran comunidad de desarrolladores y se utiliza para crear las soluciones empresariales más confiables por parte de grandes y pequeñas empresas por igual. [El](https://www.android.com/) desarrollo de aplicaciones para [Android](https://www.android.com/) se realiza completamente con Java y su ecosistema. Para saber más sobre Java, lee [esto](https://java.com/en/download/faq/whatis_java.xml) y [esto](http://tutorials.jenkov.com/java/what-is-java.html) .
+[Java](https://www.oracle.com/java/index.html) es un lenguaje de programación desarrollado por [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) en 1995, que más tarde fue adquirido por [Oracle](http://www.oracle.com/index.html). Ahora es una plataforma completa con muchas API estándar, API de código abierto, herramientas y una gran comunidad de desarrolladores. Java es utilizado por grandes y pequeñas empresas para crear soluciones de software confiables. El desarrollo de aplicaciones para [Android](https://www.android.com/) se realiza completamente en Java y su ecosistema. Para saber más sobre Java, lee [esto](https://java.com/en/download/faq/whatis_java.xml) y [esto](http://tutorials.jenkov.com/java/what-is-java.html) .
 
 ## Versión
 
@@ -18,7 +18,7 @@ Java también se divide en varias "Ediciones":
 
 ## Instalación: ¿JDK o JRE?
 
-Descarga los últimos binarios de Java desde el [sitio web oficial](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) . Aquí puede hacer frente a una pregunta, ¿cuál descargar, JDK o JRE? JRE significa Java Runtime Environment, que es la máquina virtual Java dependiente de la plataforma para ejecutar códigos Java, y JDK significa Java Development Kit, que consiste en la mayoría de las herramientas de desarrollo, lo más importante, el compilador `javac` y también el JRE. Entonces, para un usuario promedio, JRE sería suficiente, pero como estaríamos desarrollando con Java, descargaríamos el JDK.
+Descarga los últimos binarios de Java desde el [sitio web oficial](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) . Aquí puede hacer frente a una pregunta, ¿cuál descargar, JDK o JRE? JRE significa Java Runtime Environment, que es la máquina virtual Java dependiente de la plataforma para ejecutar códigos Java, y JDK significa Java Development Kit, que contiene la mayoría de las herramientas para desarrollo, lo más importante, el compilador `javac` y también el JRE. Entonces, para un usuario promedio, JRE sería suficiente, pero como estaremos desarrollando en Java, descargaremos el JDK.
 
 ## Instrucciones de instalación específicas de la plataforma.
 
@@ -61,7 +61,7 @@ $ java -version
  Java(TM) SE Runtime Environment (build 1.8.0_66-b17) 
  Java HotSpot(TM) 64-Bit Server VM (build 25.66-b17, mixed mode) 
  
- $ javac -version 
+$ javac -version 
  javac 1.8.0_66 
 ```
 
@@ -77,7 +77,7 @@ Además, una vez que se haya compilado su bytecode, se puede ejecutar en cualqui
 
 ## Hola Mundo!
 
-Vamos a escribir una muestra de la aplicación Hello World. Abra cualquier editor / IDE de su elección y cree un archivo `HelloWorld.java` .
+Vamos a escribir la famosa aplicación "Hello, World!". Abra cualquier editor / IDE de su elección y cree un archivo `HelloWorld.java` .
 ```
 public class HelloWorld { 
  
@@ -102,7 +102,7 @@ $ java HelloWorld
  Hello, World 
 ```
 
-Felicidades Tu primer programa Java se ha ejecutado con éxito. Aquí solo estamos imprimiendo una cadena que pasa a la API `System.out.println` . Cubriremos todos los conceptos en el código, ¡pero puede echar un [vistazo más de cerca](https://docs.oracle.com/javase/tutorial/getStarted/application/) ! Si tiene alguna duda o necesita ayuda adicional, no dude en contactarnos en cualquier momento en nuestra [sala de chat de Gitter](https://gitter.im/FreeCodeCamp/java) .
+Felicidades! Tu primer programa en Java se ha ejecutado con éxito. Aquí solo estamos imprimiendo una cadena que pasa a la API `System.out.println` . Cubriremos todos los conceptos en el código, ¡pero puede echar un [vistazo más de cerca](https://docs.oracle.com/javase/tutorial/getStarted/application/) ! Si tiene alguna duda o necesita ayuda adicional, no dude en contactarnos en cualquier momento en nuestra [sala de chat de Gitter](https://gitter.im/FreeCodeCamp/java) .
 
 ## Documentación
 
