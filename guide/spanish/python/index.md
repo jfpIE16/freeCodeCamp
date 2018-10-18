@@ -10,7 +10,7 @@ Para obtener más información sobre Python, consulte estas páginas en python.o
 
 [¿Qué es Python?](https://www.python.org/doc/essays/blurb/)
 
-[Preguntas frecuentes sobre Python](https://docs.python.org/3/faq/general.html) .
+[Preguntas frecuentes sobre Python](https://docs.python.org/3/faq/general.html) 
 
 ## Python 2 o Python 3
 
@@ -44,17 +44,17 @@ $ python hello_campers.py
  Hello campers! 
 ```
 
-"Cuando se instalan varias versiones de Python, se puede llamar por versión dependiendo de la configuración de instalación. En el entorno personalizado de Cloud9 ide, se pueden invocar como:
+Cuando se instalan varias versiones de Python, se puede llamar por versión dependiendo de la configuración de instalación. En el entorno personalizado de Cloud9 ide, se pueden invocar como:
 ```
 $ python --version 
  Python 2.7.6 
- $ python3 --version 
+$ python3 --version 
  Python 3.4.3 
- $ python3.5 --version 
+$ python3.5 --version 
  Python 3.5.1 
- $ python3.6 --version 
+$ python3.6 --version 
  Python 3.6.2 
- $ python3.7 --version 
+$ python3.7 --version 
  Python 3.7.1 
 ```
 
